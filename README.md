@@ -5,7 +5,6 @@
 # CRM Analysis
 
 This repository contains a comprehensive analysis of **Customer Relationship Management (CRM)** data using various tools like Excel, SQL, Power BI, and Tableau. The analysis was performed by **Group 4** to help businesses optimize their CRM processes, enhance customer interactions, and improve sales strategies through data-driven insights.
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -51,15 +50,16 @@ Key Performance Indicators (KPIs) provide a snapshot of how the CRM strategy is 
 - **Lead Conversion Rate**: 10.53% of leads were converted into customers.
 - **Revenue from Converted Leads**: $220,013.72 in revenue generated from converted leads.
 - **Opportunity KPIs**: Includes expected revenue ($10.7 million), active opportunities, conversion rate (33.99%), and win/loss rates.
-![KPI](./images/KPI_opp.png)
 
+
+![KPI](./Images/KPIopp.png)
 ## Data Modeling with Excel
 
 Excel was used to model CRM data for:
 - **Quick Data Summarization**: Pivot tables were used to summarize large datasets quickly, allowing for easy trend spotting.
 - **Data Comparisons**: Data was broken down by business type, lead source, and opportunity status for easy comparisons.
 - **Data Exploration**: Interactive exploration of data without altering the raw dataset, allowing for flexible analysis.
-
+![KPI](./Images/exceldatamodel.jpg)
 ## Data Validation and SQL Usage
 
 - **Data Transformation and Cleansing**: SQL was used to transform raw CRM data into a format suitable for analysis. This included merging data from multiple sources and creating calculated fields.
@@ -72,6 +72,8 @@ Power BI was utilized to visualize the CRM data, providing key insights:
 - **Lead Type by Industry**: Life Sciences and Safety & Security were the leading industries in terms of leads, while Banking and Hospitality had lower engagement.
 - **Lead Source by Lead Type**: Most leads came from new opportunities (81.79%), indicating a strong inflow of fresh leads.
 
+![KPI](./Images/leadPowerbi.jpg)
+![KPI](./Images/OppPowerBi.jpg)
 ## Visualization with Tableau
 
 Tableau was used to visualize trends over time:
@@ -79,6 +81,8 @@ Tableau was used to visualize trends over time:
 - **Closed Won vs Total Closed**: Steady growth from 2016 to 2020 in closed-won deals, followed by a sharp decline after 2020.
 - **Running Total vs. Forecast**: Forecasted opportunities peaked in 2021, with stable expectations from 2021 to 2023.
 
+
+![KPI](./Images/oppTablue.jpg)
 ## Key Insights
 
 - **Growth Plateau**: Post-2020, opportunity growth plateaued, suggesting market saturation or a shift in business conditions.
