@@ -35,6 +35,8 @@ The yearly performance metrics provide insights into:
 These metrics allow businesses to evaluate and adjust their approaches for continuous improvement.
 
 ## Lead Generation and Conversion Analysis
+![Lead Generate](./Images/LeadTablue.jpg)
+
 
 This section focuses on understanding the quality and quantity of leads:
 - **Lead Analysis**: Analyzing the sources of leads such as website visits, referrals, and marketing campaigns to identify trends and optimize strategies.
@@ -42,13 +44,14 @@ This section focuses on understanding the quality and quantity of leads:
 - **Opportunity Analysis**: Evaluating potential sales in the pipeline, win rates, and the overall value of opportunities to prioritize high-value deals.
 
 ## KPI Analysis
-
+![Kpi](./Images/leadKPI.png)
 Key Performance Indicators (KPIs) provide a snapshot of how the CRM strategy is performing:
 - **Total Leads**: 10,000 leads were generated this year.
 - **Converted Accounts**: 1,005 leads were successfully turned into customer accounts.
 - **Lead Conversion Rate**: 10.53% of leads were converted into customers.
 - **Revenue from Converted Leads**: $220,013.72 in revenue generated from converted leads.
 - **Opportunity KPIs**: Includes expected revenue ($10.7 million), active opportunities, conversion rate (33.99%), and win/loss rates.
+![KPI](./images/KPI_opp.png)
 
 ## Data Modeling with Excel
 
