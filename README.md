@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Images/banner.jpg" alt="CRM Analysis Banner" />
+</p>
+
 # CRM Analysis
 
 This repository contains a comprehensive analysis of **Customer Relationship Management (CRM)** data using various tools like Excel, SQL, Power BI, and Tableau. The analysis was performed by **Group 4** to help businesses optimize their CRM processes, enhance customer interactions, and improve sales strategies through data-driven insights.
